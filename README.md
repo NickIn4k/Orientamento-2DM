@@ -1,2 +1,2 @@
 # Orientamento-2DM
-Cacca pupu
+Link alla repository del progetto del gioco di carte: 
